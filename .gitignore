@@ -3,3 +3,5 @@ Sber_NLP/test_data.json
 Sber_NLP/.ipynb_checkpoints
 *.pickle
 Sber_NLP/catboost_info
+Sber_NLP/data.txt
+Sber_NLP/result.json
